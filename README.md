@@ -1,3 +1,3 @@
-Information Retrival project for a movie libraty with lucene library .<br />
-The zip file is the eclipse project<br />
+Search Engine for a movie library with lucene.<br />
+The zip file is the eclipse project.<br />
 There is a video demo walkthrough in greek<br />
